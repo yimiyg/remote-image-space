@@ -1,2 +1,2 @@
 # remote-image-space
-远程图床
+自用远程图床
